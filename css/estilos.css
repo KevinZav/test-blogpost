@@ -10,12 +10,12 @@ body
 
 #cabecera
 {
-    background: rgb(78, 78, 212);
+    background: rgb(212, 20, 77);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    color: rgb(236, 229, 229);
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.7em;
 }
 
 #cabecera #tagline
